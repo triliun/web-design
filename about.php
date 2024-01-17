@@ -7,9 +7,9 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <title>Aljabaar</title>
 </head>
-<body class="bg-gray-100">
-    <?php require_once(__DIR__.'/partials/navbar.php'); ?>
-    <?php require_once(__DIR__.'/partials/hero.php'); ?>
+<body class="bg-white-100">
+    <?php require_once(__DIR__.'/partials/navbar-about.php'); ?>
+    <?php require_once(__DIR__.'/partials/section-about.php'); ?>
       
     <?php require_once(__DIR__.'/partials/footer.php'); ?>
 </body>

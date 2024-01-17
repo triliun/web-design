@@ -2,7 +2,7 @@
     <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
         <a href="#" class="inline-flex justify-between items-center py-1 px-1 pr-4 mb-7 text-sm text-gray-700 bg-gray-100 rounded-full dark:bg-gray-800 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-700" role="alert">
         </a>
-        <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-600 md:text-5xl lg:text-6xl dark:text-white ">Hi i'am Varrel Al Jabaar. <br> A Web Developer.</h1>
+        <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-600 md:text-5xl lg:text-6xl dark:text-white ">Hi i'am <span class="text-blue-400">Varrel Al Jabaar.</span> <br> A Web Developer.</h1>
         <p class="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Hanya fokus di Laravel dan Asrto Js 😂</p>
         <div class="px-4 mx-auto text-center md:max-w-screen-md lg:max-w-screen-lg lg:px-36">
             <span class="font-semibold text-gray-400 uppercase">FEATURED IN</span>
